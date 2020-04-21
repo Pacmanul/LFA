@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587391689 source:d:\cb_probleme-teme\lfa2\main.cpp
+	<iostream>
+	<fstream>
+

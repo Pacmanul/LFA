@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587393453 source:d:\cb_probleme-teme\ifa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
